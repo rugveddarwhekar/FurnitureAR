@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Furniture AR</string>
+    <string name="fab_text">PLACE</string>
 </resources>
